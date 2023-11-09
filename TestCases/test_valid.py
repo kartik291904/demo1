@@ -1,6 +1,6 @@
 from selenium.webdriver import Chrome
-from Basefiles import InitiateDriver
-from Basefiles import ConfigReader
+from demo1.Basefiles import InitiateDriver
+from demo1.Basefiles import ConfigReader
 import pytest
 
 
